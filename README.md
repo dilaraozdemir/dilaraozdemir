@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhaenessa" alt="rhaenessa" /> </p>
 
 - 🔭 I’m currently working at [Simurg AI](https://www.simurgai.com)
-- 👨‍💻 All of my projects are available at [https://www.github.com/rhaenessa]
+- 👨‍💻 All of my projects are available at [https://www.github.com/dilaraozdemir]
 - 💬 Ask me about Image Processing, Machine Learning and Deep Learning.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
