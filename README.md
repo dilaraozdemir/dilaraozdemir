@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Dilara Özdemir</h1>
-<h3 align="center">B.Eng. Student, R&D Project Researcher and AI Developer </h3>
+## B.Eng. Student, R&D Project Researcher and AI Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhaenessa" alt="rhaenessa" /> </p>
 
