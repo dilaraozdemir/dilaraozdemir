@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Dilara Özdemir
 ## B.Eng. Student, R&D Project Researcher and AI Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhaenessa" alt="rhaenessa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
 - 🔭 I’m currently working at [Simurg AI](https://www.simurgai.com)
 - 👨‍💻 All of my projects are available at [https://www.github.com/dilaraozdemir]
