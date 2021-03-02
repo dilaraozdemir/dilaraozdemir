@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Dilara Özdemir
-B.Eng. Student, R&D Project Researcher and AI Developer in Karabuk University
+### B.Eng. Student, R&D Project Researcher and AI Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
