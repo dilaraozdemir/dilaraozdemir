@@ -22,7 +22,7 @@
 </p>
 
 ## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaenessa&layout=compact&hide=html" alt="rhaenessa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraozdemir&layout=compact&hide=html" alt="dilaraozdemir" /></p>
 
 ##  Contact
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dilarazdemir)
