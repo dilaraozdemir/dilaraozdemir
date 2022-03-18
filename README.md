@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Dilara Özdemir
-### BSc, R&D Project Researcher and AI Developer
+### BSc, Research Assistant and AI Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
