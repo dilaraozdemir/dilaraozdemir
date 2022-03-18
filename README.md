@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
-- 🔭 I’m currently working at [Simurg AI](https://www.simurgai.com)
+- 🔭 I’m currently working at Zonguldak Bulent Ecevit University
+- 🔭 I’m voluntoraly working at [Simurg AI](https://www.simurgai.com) 
 - 👨‍💻 All of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
 - 💬 Ask me about Image Processing, Machine Learning and Deep Learning.
 
