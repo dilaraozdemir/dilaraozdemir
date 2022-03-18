@@ -6,7 +6,7 @@
 - 🖨️ I’m currently working at Zonguldak Bulent Ecevit University
 - 💻 I’m voluntoraly working at [Simurg AI](https://www.simurgai.com) 
 - 👨‍💻 All of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
-- 💬 Ask me about Image Processing, Machine Learning and Deep Learning.
+- 💬 Ask me about Image Processing, Computer Vision, Object Detection, Machine Learning and Deep Learning.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -27,6 +27,6 @@
 
 ##  Contact
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dilarazdemir)
-[![](https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/rhaenessa)
+[![](https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ozdemirdilara7)
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilara-ozdemir1998/)
 
