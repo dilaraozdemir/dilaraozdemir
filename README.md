@@ -22,8 +22,12 @@
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
 </p>
 
+
+<!---
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraozdemir&layout=compact&hide=html" alt="dilaraozdemir" /></p>
+-->
+
 
 ##  Contact
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dilarazdemir)
