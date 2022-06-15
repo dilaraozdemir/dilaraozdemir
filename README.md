@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
- <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
+ 
    <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
    <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
     <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
-  
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/>
 
 
