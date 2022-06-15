@@ -35,5 +35,5 @@
 ##  Contact
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dilarazdemir)
 [![](https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ozdemirdilara7)
-[![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilara-ozdemir1998/)
+[![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilaraozdemir/)
 
