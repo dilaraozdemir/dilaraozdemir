@@ -12,6 +12,8 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
  
    <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+   
    <img src="https://icongr.am/devicon/pycharm-original-wordmark.svg?size=128&color=currentColor" alt="pycharm" width="40" height="40"/>
     <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
