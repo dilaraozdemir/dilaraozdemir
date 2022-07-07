@@ -19,12 +19,6 @@
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/>
 
-
- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
- <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>
-
 </p>
 
 
