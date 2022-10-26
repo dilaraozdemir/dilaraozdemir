@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Dilara Özdemir
-### BSc, Research Assistant and AI Specialist
+### MSc Student, Research Assistant and AI Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
