@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Dilara Özdemir
-### MSc Student, Research Assistant and AI Specialist
+### MSc Student, UI/UX Developer and AI Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
-- 🖨️ I’m currently working at Zonguldak Bulent Ecevit University
+- 🖨️ I’m currently working at Mitsubishi Electric Innovation Center (MELIC)
 - 💻 I’m voluntarily working at [Simurg AI](https://www.simurgai.com) 
 - 👨‍💻 All of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
 - 💬 Ask me about Image Processing, Computer Vision, Object Detection, Machine Learning and Deep Learning.
