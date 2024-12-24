@@ -1,12 +1,10 @@
 ### Hi 👋, I'm Dilara Özdemir
-### MSc Student, UI/UX Developer and AI Specialist
+### PhD Student, UI/UX Developer and Assistant Project Manager
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozdemir" alt="dilaraozdemir" /> </p>
 
 - 🖨️ I’m currently working at Mitsubishi Electric Innovation Center (MELIC)
-- 💻 I’m voluntarily working at [Simurg AI](https://www.simurgai.com) 
 - 👨‍💻 All of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
-- 💬 Ask me about Image Processing, Computer Vision, Object Detection, Machine Learning and Deep Learning.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
